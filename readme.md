@@ -8,7 +8,7 @@ Projeto feito em python, com os pacotes:
 
     - Selenium - Manipulação do navegador
     - dbfread - Leitor de .DBF
-    - Regex - Validador de cadeia de caracteres
+    - RegEx - Validador de cadeia de caracteres
 
 
 Para executar o projeto: 
