@@ -12,6 +12,6 @@ Projeto feito em python, com os pacotes:
 
 
 Para executar o projeto: 
-    1 - Abra o diretório dos arquivos com alguma IDE ( VSCode por exemplo)
-    2 - Execute o arquivo "sales.py".
-    2 - Após executar o arquivo mencionado, o Google Chrome ( Deve estar instalado no dispositivo ) irá abrir um formulário do Google e preenchê-lo automaticamente.
+     - Abra o diretório dos arquivos com alguma IDE ( VSCode por exemplo)
+     - Execute o arquivo "sales.py".
+     - Após executar o arquivo mencionado, o Google Chrome ( Deve estar instalado no dispositivo ) irá abrir um formulário do Google e preenchê-lo automaticamente.
